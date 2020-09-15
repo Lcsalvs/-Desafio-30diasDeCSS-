@@ -19,8 +19,4 @@
 
  #Dia 1
 
-<<<<<<< HEAD
  <iframe src='//gifs.com/embed/icones-medias-sociais-em-camadas-81Vlrm' frameborder='0' scrolling='no' width='856px' height='296px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
-=======
- <a href="https://gifs.com/gif/icones-medias-sociais-em-camadas-81Vlrm"></a>
->>>>>>> 015c7455e8a788e7facd375112f82a85ace7c335
