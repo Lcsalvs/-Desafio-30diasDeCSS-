@@ -13,4 +13,10 @@
 # Minhas Referências
 
 <a href="https://fontawesome.com/">Font Awesome</a>
+
+<a href="https://www.colorzilla.com/">Color Zilla</a>
  
+
+ #Dia 1
+
+ https://gifs.com/gif/icones-medias-sociais-em-camadas-81Vlrm
