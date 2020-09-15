@@ -17,8 +17,8 @@
 <a href="https://www.colorzilla.com/">Color Zilla</a>
  
 
- ## Desafio dia 1
 
-https://j.gifs.com/81Vlrm.gif
+
+
 ##  Desafio dia 01 - Ícones de mídias sociais em camadas<a name="id01"></a>
 ![Dia 01](https://j.gifs.com/81Vlrm.gif)
