@@ -28,5 +28,6 @@
 
 Referências usada para realizar o desafio:
 
-<a href"https://www.youtube.com/watch?v=QLiZ5VrhA98">Dark Code</a>
+<a href="https://www.youtube.com/watch?v=QLiZ5VrhA98">Dark Code</a>
+
 <a href="https://flatuicolors.com/palette/nl">FLAT UI COLORS 2</a>
