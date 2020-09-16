@@ -22,3 +22,11 @@
 
 ##  Desafio dia 01 - Ícones de mídias sociais em camadas<a name="id01"></a>
 ![Dia 01](https://j.gifs.com/81Vlrm.gif)
+
+##  Desafio dia 02 - Loading Screen<a name="id02"></a>
+![Dia 02](https://j.gifs.com/VARjW5.gif)
+
+Referências usada para realizar o desafio:
+
+<a href"https://www.youtube.com/watch?v=QLiZ5VrhA98">Dark Code</a>
+<a href="https://flatuicolors.com/palette/nl">FLAT UI COLORS 2</a>
