@@ -33,4 +33,4 @@ Referências usada para realizar o desafio:
 <a href="https://flatuicolors.com/palette/nl">FLAT UI COLORS 2</a>
 
 ##  Desafio dia 03 - Changing color text when sliding<a name="id03"></a>
-![Dia 03](https://j.gifs.com/P7Lwp6.gif)
+![Dia 03](https://j.gifs.com/JyBn2K.gif)
