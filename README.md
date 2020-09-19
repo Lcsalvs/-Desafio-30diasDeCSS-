@@ -10,7 +10,11 @@
  
  
 
-## Minhas Referências
+## Referências usada para realizar o desafio:
+
+<a href="https://www.youtube.com/watch?v=QLiZ5VrhA98">Dark Code</a>
+
+<a href="https://flatuicolors.com/palette/nl">FLAT UI COLORS 2</a>
 
 <a href="https://fontawesome.com/">Font Awesome</a>
 
@@ -26,11 +30,8 @@
 ##  Desafio dia 02 - Loading Screen<a name="id02"></a>
 ![Dia 02](https://j.gifs.com/VARjW5.gif)
 
-Referências usada para realizar o desafio:
-
-<a href="https://www.youtube.com/watch?v=QLiZ5VrhA98">Dark Code</a>
-
-<a href="https://flatuicolors.com/palette/nl">FLAT UI COLORS 2</a>
-
 ##  Desafio dia 03 - Changing color text when sliding<a name="id03"></a>
 ![Dia 03](https://j.gifs.com/r81G62.gif)
+
+##  Desafio dia 04 - Buttons with Hover Effects<a name="id04"></a>
+![Dia 04](https://j.gifs.com/XLWK95.gif)
