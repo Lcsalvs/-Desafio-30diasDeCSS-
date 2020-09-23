@@ -38,3 +38,6 @@
 
 ##  Desafio dia 05 - Pulse Effect<a name="id05"></a>
 ![Dia 05](https://j.gifs.com/k81AyN.gif)
+
+##  Desafio dia 06 - Lighiting text<a name="id06"></a>
+![Dia 06](https://j.gifs.com/p81N1N.gif)
