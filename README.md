@@ -41,3 +41,6 @@
 
 ##  Desafio dia 06 - Lighiting text<a name="id06"></a>
 ![Dia 06](https://j.gifs.com/p81N1N.gif)
+
+##  Desafio dia 07 - Square loading animation<a name="id07"></a>
+![Dia 07](https://j.gifs.com/2xMnDA.gif)
