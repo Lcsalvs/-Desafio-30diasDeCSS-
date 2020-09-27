@@ -44,3 +44,6 @@
 
 ##  Desafio dia 07 - Square loading animation<a name="id07"></a>
 ![Dia 07](https://j.gifs.com/2xMnDA.gif)
+
+##  Desafio dia 07 - Heart beat animation<a name="id08"></a>
+![Dia 08](https://j.gifs.com/XLJLPk.gif)
