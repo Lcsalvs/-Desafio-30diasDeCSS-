@@ -10,7 +10,7 @@
  
  
 
-## Referências usada para realizar o desafio:
+## Referências utilizadas para realizar o desafio:
 
 <a href="https://www.youtube.com/watch?v=QLiZ5VrhA98">Dark Code</a>
 
